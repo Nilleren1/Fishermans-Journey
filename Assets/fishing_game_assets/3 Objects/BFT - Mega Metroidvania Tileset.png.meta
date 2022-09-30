@@ -1,0 +1,1523 @@
+fileFormatVersion: 2
+guid: 6a76883aa736e604cb028bc7a464e032
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2876519652064082050
+    second: BFT - Mega Metroidvania Tileset_0
+  - first:
+      213: -3565388522214744147
+    second: BFT - Mega Metroidvania Tileset_1
+  - first:
+      213: -345462918005475936
+    second: BFT - Mega Metroidvania Tileset_2
+  - first:
+      213: 571554718375776769
+    second: BFT - Mega Metroidvania Tileset_3
+  - first:
+      213: -188511386300886355
+    second: BFT - Mega Metroidvania Tileset_4
+  - first:
+      213: -7105393290257984000
+    second: BFT - Mega Metroidvania Tileset_5
+  - first:
+      213: -1833255889936105287
+    second: BFT - Mega Metroidvania Tileset_6
+  - first:
+      213: -1335895454931697
+    second: BFT - Mega Metroidvania Tileset_7
+  - first:
+      213: -6078333912416075733
+    second: BFT - Mega Metroidvania Tileset_8
+  - first:
+      213: 3776158026551832951
+    second: BFT - Mega Metroidvania Tileset_9
+  - first:
+      213: -7787475665540687563
+    second: BFT - Mega Metroidvania Tileset_10
+  - first:
+      213: 5080302367733723808
+    second: BFT - Mega Metroidvania Tileset_11
+  - first:
+      213: -6656548777816904638
+    second: BFT - Mega Metroidvania Tileset_12
+  - first:
+      213: 7303374148940572035
+    second: BFT - Mega Metroidvania Tileset_13
+  - first:
+      213: 1286727996940080992
+    second: BFT - Mega Metroidvania Tileset_14
+  - first:
+      213: -2167855814012713071
+    second: BFT - Mega Metroidvania Tileset_15
+  - first:
+      213: -3698880185472711378
+    second: BFT - Mega Metroidvania Tileset_16
+  - first:
+      213: -1313694544681169354
+    second: BFT - Mega Metroidvania Tileset_17
+  - first:
+      213: 3420299894375838802
+    second: BFT - Mega Metroidvania Tileset_18
+  - first:
+      213: 8447821473376524038
+    second: BFT - Mega Metroidvania Tileset_19
+  - first:
+      213: 3033692584573572341
+    second: BFT - Mega Metroidvania Tileset_20
+  - first:
+      213: -7262154626897497675
+    second: BFT - Mega Metroidvania Tileset_21
+  - first:
+      213: -6614166588761841604
+    second: BFT - Mega Metroidvania Tileset_22
+  - first:
+      213: -8665445271948430679
+    second: BFT - Mega Metroidvania Tileset_23
+  - first:
+      213: 8273880956406469480
+    second: BFT - Mega Metroidvania Tileset_24
+  - first:
+      213: 2803898141138194098
+    second: BFT - Mega Metroidvania Tileset_25
+  - first:
+      213: -1056430253005413855
+    second: BFT - Mega Metroidvania Tileset_26
+  - first:
+      213: 2103243986019644943
+    second: BFT - Mega Metroidvania Tileset_27
+  - first:
+      213: -6725432382556497895
+    second: BFT - Mega Metroidvania Tileset_28
+  - first:
+      213: -8854004844025329931
+    second: BFT - Mega Metroidvania Tileset_29
+  - first:
+      213: -8345497855627055505
+    second: BFT - Mega Metroidvania Tileset_30
+  - first:
+      213: -514986252382881104
+    second: BFT - Mega Metroidvania Tileset_31
+  - first:
+      213: -4383220606996013798
+    second: BFT - Mega Metroidvania Tileset_32
+  - first:
+      213: 2151535069132592648
+    second: BFT - Mega Metroidvania Tileset_33
+  - first:
+      213: 3563278708297561805
+    second: BFT - Mega Metroidvania Tileset_34
+  - first:
+      213: -2218317759779997334
+    second: BFT - Mega Metroidvania Tileset_35
+  - first:
+      213: -2059136890860003082
+    second: BFT - Mega Metroidvania Tileset_36
+  - first:
+      213: 1250655284155875259
+    second: BFT - Mega Metroidvania Tileset_37
+  - first:
+      213: 8679694901276662762
+    second: BFT - Mega Metroidvania Tileset_38
+  - first:
+      213: -461375841959711396
+    second: BFT - Mega Metroidvania Tileset_39
+  - first:
+      213: 2296778595720624624
+    second: BFT - Mega Metroidvania Tileset_40
+  - first:
+      213: 2502388569176728366
+    second: BFT - Mega Metroidvania Tileset_41
+  - first:
+      213: 2131364012866955472
+    second: BFT - Mega Metroidvania Tileset_42
+  - first:
+      213: -8331451815084597881
+    second: BFT - Mega Metroidvania Tileset_43
+  - first:
+      213: -2280782984054960044
+    second: BFT - Mega Metroidvania Tileset_44
+  - first:
+      213: 6051690946549417934
+    second: BFT - Mega Metroidvania Tileset_45
+  - first:
+      213: -2097354048516536803
+    second: BFT - Mega Metroidvania Tileset_46
+  - first:
+      213: -978764677796504567
+    second: BFT - Mega Metroidvania Tileset_47
+  - first:
+      213: 6698154979968124948
+    second: BFT - Mega Metroidvania Tileset_48
+  - first:
+      213: -5421716292609583957
+    second: BFT - Mega Metroidvania Tileset_49
+  - first:
+      213: 281392305340607519
+    second: BFT - Mega Metroidvania Tileset_50
+  - first:
+      213: 7051242032606068309
+    second: BFT - Mega Metroidvania Tileset_51
+  - first:
+      213: 6981949570535535747
+    second: BFT - Mega Metroidvania Tileset_52
+  - first:
+      213: -3753104967654150868
+    second: BFT - Mega Metroidvania Tileset_53
+  - first:
+      213: 5124743228918907500
+    second: BFT - Mega Metroidvania Tileset_54
+  - first:
+      213: -3605989282110459766
+    second: BFT - Mega Metroidvania Tileset_55
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288b5b212637be720800000000000000
+      internalID: 2876519652064082050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf922f7702358ec0800000000000000
+      internalID: -3565388522214744147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5b6317e4ba43bf0800000000000000
+      internalID: -345462918005475936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1029c76fcf19ee700800000000000000
+      internalID: 571554718375776769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da25b6794e5426df0800000000000000
+      internalID: -188511386300886355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0069ab0d272946d90800000000000000
+      internalID: -7105393290257984000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b047f92b77fe86e0800000000000000
+      internalID: -1833255889936105287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05a3f992014bfff0800000000000000
+      internalID: -1335895454931697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20ca34d28b65aba0800000000000000
+      internalID: -6078333912416075733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771bc5cd7bb976430800000000000000
+      internalID: 3776158026551832951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539d27a54245de390800000000000000
+      internalID: -7787475665540687563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2385c361cd08640800000000000000
+      internalID: 5080302367733723808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ca92c87203f93a0800000000000000
+      internalID: -6656548777816904638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385af51f71cca5560800000000000000
+      internalID: 7303374148940572035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067d92cbb406bd110800000000000000
+      internalID: 1286727996940080992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197c1897f9a3ae1e0800000000000000
+      internalID: -2167855814012713071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e250b2e9110faacc0800000000000000
+      internalID: -3698880185472711378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e09e895c1d4cde0800000000000000
+      internalID: -1313694544681169354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254f395e1a8577f20800000000000000
+      internalID: 3420299894375838802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607568e1fd0bc3570800000000000000
+      internalID: 8447821473376524038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f49e3d1557d91a20800000000000000
+      internalID: 3033692584573572341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1b0d7e7d4a73b90800000000000000
+      internalID: -7262154626897497675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30e797e782c534a0800000000000000
+      internalID: -6614166588761841604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2fce8cf672eb780800000000000000
+      internalID: -8665445271948430679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8631a7894eab2d270800000000000000
+      internalID: 8273880956406469480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be8be0f08279e620800000000000000
+      internalID: 2803898141138194098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122e2a7384ec651f0800000000000000
+      internalID: -1056430253005413855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f067da60349303d10800000000000000
+      internalID: 2103243986019644943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9189fc481e67aa2a0800000000000000
+      internalID: -6725432382556497895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f648404181402580800000000000000
+      internalID: -8854004844025329931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ea099aae5de2c80800000000000000
+      internalID: -8345497855627055505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba32826bb66ad8f0800000000000000
+      internalID: -514986252382881104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d94dbc41cab23c0800000000000000
+      internalID: -4383220606996013798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806917dfeb9cbdd10800000000000000
+      internalID: 2151535069132592648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6f9cb2b1f437130800000000000000
+      internalID: 3563278708297561805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a697f5920c3f631e0800000000000000
+      internalID: -2218317759779997334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0236458e97c63e0800000000000000
+      internalID: -2059136890860003082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf739cca583b5110800000000000000
+      internalID: 1250655284155875259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb5d559688747870800000000000000
+      internalID: 8679694901276662762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d6b00cd1dd899f0800000000000000
+      internalID: -461375841959711396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9f5a5c6fbcfdf10800000000000000
+      internalID: 2296778595720624624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23e6cb35254ab220800000000000000
+      internalID: 2502388569176728366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d86cf9f640249d10800000000000000
+      internalID: 2131364012866955472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d599257bcb06c80800000000000000
+      internalID: -8331451815084597881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45016a9c5f70950e0800000000000000
+      internalID: -2280782984054960044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec786874adcebf350800000000000000
+      internalID: 6051690946549417934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16c1f9ea93b4e2e0800000000000000
+      internalID: -2097354048516536803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c5d3516baba62f0800000000000000
+      internalID: -978764677796504567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41883874770a4fc50800000000000000
+      internalID: 6698154979968124948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4de02e1c132c4b0800000000000000
+      internalID: -5421716292609583957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cea529fc4b7e300800000000000000
+      internalID: 281392305340607519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55eb9c2054b0bd160800000000000000
+      internalID: 7051242032606068309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3843677742ed4e060800000000000000
+      internalID: 6981949570535535747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d683eaaea4aebc0800000000000000
+      internalID: -3753104967654150868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62cccc80debe1740800000000000000
+      internalID: 5124743228918907500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFT - Mega Metroidvania Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80b0ff6ad3f4fdc0800000000000000
+      internalID: -3605989282110459766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BFT - Mega Metroidvania Tileset_54: 5124743228918907500
+      BFT - Mega Metroidvania Tileset_42: 2131364012866955472
+      BFT - Mega Metroidvania Tileset_20: 3033692584573572341
+      BFT - Mega Metroidvania Tileset_27: 2103243986019644943
+      BFT - Mega Metroidvania Tileset_4: -188511386300886355
+      BFT - Mega Metroidvania Tileset_10: -7787475665540687563
+      BFT - Mega Metroidvania Tileset_3: 571554718375776769
+      BFT - Mega Metroidvania Tileset_16: -3698880185472711378
+      BFT - Mega Metroidvania Tileset_1: -3565388522214744147
+      BFT - Mega Metroidvania Tileset_31: -514986252382881104
+      BFT - Mega Metroidvania Tileset_55: -3605989282110459766
+      BFT - Mega Metroidvania Tileset_28: -6725432382556497895
+      BFT - Mega Metroidvania Tileset_8: -6078333912416075733
+      BFT - Mega Metroidvania Tileset_37: 1250655284155875259
+      BFT - Mega Metroidvania Tileset_30: -8345497855627055505
+      BFT - Mega Metroidvania Tileset_32: -4383220606996013798
+      BFT - Mega Metroidvania Tileset_15: -2167855814012713071
+      BFT - Mega Metroidvania Tileset_44: -2280782984054960044
+      BFT - Mega Metroidvania Tileset_45: 6051690946549417934
+      BFT - Mega Metroidvania Tileset_49: -5421716292609583957
+      BFT - Mega Metroidvania Tileset_12: -6656548777816904638
+      BFT - Mega Metroidvania Tileset_47: -978764677796504567
+      BFT - Mega Metroidvania Tileset_0: 2876519652064082050
+      BFT - Mega Metroidvania Tileset_51: 7051242032606068309
+      BFT - Mega Metroidvania Tileset_2: -345462918005475936
+      BFT - Mega Metroidvania Tileset_6: -1833255889936105287
+      BFT - Mega Metroidvania Tileset_25: 2803898141138194098
+      BFT - Mega Metroidvania Tileset_52: 6981949570535535747
+      BFT - Mega Metroidvania Tileset_36: -2059136890860003082
+      BFT - Mega Metroidvania Tileset_50: 281392305340607519
+      BFT - Mega Metroidvania Tileset_7: -1335895454931697
+      BFT - Mega Metroidvania Tileset_26: -1056430253005413855
+      BFT - Mega Metroidvania Tileset_34: 3563278708297561805
+      BFT - Mega Metroidvania Tileset_46: -2097354048516536803
+      BFT - Mega Metroidvania Tileset_39: -461375841959711396
+      BFT - Mega Metroidvania Tileset_17: -1313694544681169354
+      BFT - Mega Metroidvania Tileset_29: -8854004844025329931
+      BFT - Mega Metroidvania Tileset_40: 2296778595720624624
+      BFT - Mega Metroidvania Tileset_5: -7105393290257984000
+      BFT - Mega Metroidvania Tileset_41: 2502388569176728366
+      BFT - Mega Metroidvania Tileset_11: 5080302367733723808
+      BFT - Mega Metroidvania Tileset_33: 2151535069132592648
+      BFT - Mega Metroidvania Tileset_22: -6614166588761841604
+      BFT - Mega Metroidvania Tileset_9: 3776158026551832951
+      BFT - Mega Metroidvania Tileset_14: 1286727996940080992
+      BFT - Mega Metroidvania Tileset_18: 3420299894375838802
+      BFT - Mega Metroidvania Tileset_43: -8331451815084597881
+      BFT - Mega Metroidvania Tileset_23: -8665445271948430679
+      BFT - Mega Metroidvania Tileset_53: -3753104967654150868
+      BFT - Mega Metroidvania Tileset_19: 8447821473376524038
+      BFT - Mega Metroidvania Tileset_24: 8273880956406469480
+      BFT - Mega Metroidvania Tileset_35: -2218317759779997334
+      BFT - Mega Metroidvania Tileset_21: -7262154626897497675
+      BFT - Mega Metroidvania Tileset_13: 7303374148940572035
+      BFT - Mega Metroidvania Tileset_38: 8679694901276662762
+      BFT - Mega Metroidvania Tileset_48: 6698154979968124948
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
